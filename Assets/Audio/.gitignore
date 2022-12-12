@@ -1,3 +1,5 @@
 *
 */
 !.gitignore
+!Deafult Audio Presets.preset
+!*.md
