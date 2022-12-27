@@ -236,8 +236,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -450, y: -600}
-  m_SizeDelta: {x: 800, y: 800}
+  m_AnchoredPosition: {x: -450, y: -692.47266}
+  m_SizeDelta: {x: 800, y: 984.9447}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &12193812
 MonoBehaviour:
@@ -275,7 +275,7 @@ MonoBehaviour:
   m_Text: 'Colosseum Spectators
 
 
-    General Godseeker
+    General Godseekers
 
 
 
@@ -340,8 +340,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 450, y: -1975}
-  m_SizeDelta: {x: 800, y: 3550}
+  m_AnchoredPosition: {x: 450, y: -2225}
+  m_SizeDelta: {x: 800, y: 4050}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &23311106
 MonoBehaviour:
@@ -376,12 +376,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Basil\r\nCcmaci\r\nDragonRoIlZ\r\nEdgeTame\r\nFlipflopitstimetostop\r\nHunterGoldCraft\r\nMajorDZaster\r\nPossibly
-    Legit\r\nRealeeryan\r\nTAGOrigins\r\nTechnovoid\r\nThe Grinning Gamer\r\nYoshieShoes\r\n\r\nBasil\r\nCody
-    \u201CAn Odd Hermit\u201D Silver\r\nLucas Davey\r\nRaqus\r\nRealeeryan\r\nWyatt
+  m_Text: "Basil\r Greene\nCcmaci\r\nDragonRoIlZ\r\nEdgeTame\r\nFlipflopitstimetostop\r\nHunterGoldCraft\r\nMajorDZaster\r\nPossibly
+    Legit\r\nRealeeryan\r\nTAGOrigins\r\nTechnovoid\r\nThe Grinning Gamer\r\nYoshieShoes\r\n\r\nBasil\r
+    Greene\nCody \u201CAn Odd Hermit\u201D Silver\r\nLucas Davey\r\nRaqus\r\nRealeeryan\r\nWyatt
     \u201CLucidWraithh\u201D West\r\n\r\nCcmaci\r\nfalconfetus8\r\nfrozenreaper04\r\n\r\nTrailblade\r\n\r\nEdgeTame\r\nMaxim
     Binder\r\nRaqus\r\nZer0PM\r\n\r\nDuckverse\r\nfrozenreaper04\r\nMR.C Gaming\r\nPossibly
-    Legit\r\nZacc\r\n\r\nPossibly Legit\r\n\r\nTheTalkingFlower\r\n\r\nTheTalkingFlower\r\n\r\nCcmaci\r\n\r\nCcmaci\r\nJoseph
+    Legit\r\nZacc\r\n\nAlycoris\nPossibly Legit\nYoshieShoes\nZacc\n\r\nPossibly
+    Legit\r\n\r\nTheTalkingFlower\r\n\r\nTheTalkingFlower\r\n\r\nCcmaci\r\n\r\nCcmaci\r\nJoseph
     Caddell\r\nTAGOrigins\r\n\r\nCcmaci\r\nRealeeryan\r\nWyatt \u201CLucidWraithh\u201D
     West\r\n\r\nPossibly Legit\r\n\r\nCassandra \"Friskk\" Reyna\r\nJezoShow\r\nLeo
     Abadesco Jr.\r\nsmorales300\r\nTheTalkingFlower\r\n\r\nRaqus\r\nTemporalitea\r\nWyatt
@@ -500,7 +501,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 67469691}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -26975, z: 0}
+  m_LocalPosition: {x: 0, y: -28500, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 332554257}
@@ -544,8 +545,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -450, y: -1250}
-  m_SizeDelta: {x: 800, y: 2100}
+  m_AnchoredPosition: {x: -450, y: -1305}
+  m_SizeDelta: {x: 800, y: 2210}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &95310045
 MonoBehaviour:
@@ -834,8 +835,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -450, y: -525}
-  m_SizeDelta: {x: 800, y: 650}
+  m_AnchoredPosition: {x: -450, y: -500}
+  m_SizeDelta: {x: 800, y: 600}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &127106801
 MonoBehaviour:
@@ -882,9 +883,7 @@ MonoBehaviour:
     Dash Master Statue
 
 
-
     Dream Shield Statue
-
 
 
     Kingsmould
@@ -933,8 +932,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -450, y: -1500}
-  m_SizeDelta: {x: 800, y: 2600}
+  m_AnchoredPosition: {x: -450, y: -2250}
+  m_SizeDelta: {x: 800, y: 4100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &200409139
 MonoBehaviour:
@@ -971,7 +970,8 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: "Reveal Trailer Hype VAs\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\nEarly Developement
     Helpers\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nBeta
-    Testers\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\nMy
+    Testers\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\nChoir
+    for HV\u2019s Title Screen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy
     Discord Mod Team\r\n\r\n\r\n\r\n\nContributing Artists\r\n\r\n\nMusical Composer
     for HV\u2019s OST\r\n"
 --- !u!222 &200409140
@@ -994,7 +994,7 @@ GameObject:
   - component: {fileID: 213723833}
   - component: {fileID: 213723832}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1016,8 +1016,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 2000, y: 200}
+  m_AnchoredPosition: {x: -299.3, y: 0}
+  m_SizeDelta: {x: 486.9016, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &213723832
 MonoBehaviour:
@@ -1052,7 +1052,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: Ccmaci               Realeeryan
+  m_Text: Ccmaci
 --- !u!222 &213723833
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1249,8 +1249,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -450, y: -500}
-  m_SizeDelta: {x: 800, y: 600}
+  m_AnchoredPosition: {x: -450, y: -625}
+  m_SizeDelta: {x: 800, y: 850}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &290455812
 MonoBehaviour:
@@ -1299,7 +1299,9 @@ MonoBehaviour:
 
     Xero
 
-'
+    Wayner
+
+    Wyatt'
 --- !u!222 &290455813
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1332,7 +1334,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 300170167}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -39950, z: 0}
+  m_LocalPosition: {x: 0, y: -41875, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 424975}
@@ -1685,8 +1687,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -450, y: -4250}
-  m_SizeDelta: {x: 800, y: 8100}
+  m_AnchoredPosition: {x: -450, y: -4475}
+  m_SizeDelta: {x: 800, y: 8550}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &381109135
 MonoBehaviour:
@@ -1997,7 +1999,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 492660244}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -42125, z: 0}
+  m_LocalPosition: {x: 0, y: -44125, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1132047196}
@@ -2041,8 +2043,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -1087.5}
-  m_SizeDelta: {x: 800, y: 1775}
+  m_AnchoredPosition: {x: 0, y: -1175}
+  m_SizeDelta: {x: 800, y: 1950}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &503375343
 MonoBehaviour:
@@ -2080,8 +2082,8 @@ MonoBehaviour:
   m_Text: "Helen Birchall\r\nJames Dijit\r\nJohn \u201CMadJazzer\u201D Cargille\r\nJonathan
     Lautre\r\nJoseph Caddell\r\nJustSvenThings\r\nKyle \"Kyphoon\" Williams\r\nLink459\r\nLeo
     Abadesco Jr.\r\nLucas Davey\r\nLumpyLimitz\r\nMadeleine Hamley\r\nMAT\r\nMiriShalyn\r\nmossbag\r\nMR.C
-    Gaming\r\nvide0gurt\r\nNicholas Thomas\r\nNym P. Seudo\r\nOliver Johnson\r\nPerpetual
-    Noob\r\n"
+    Gaming\r\nNicholas Thomas\r\nNym P. Seudo\r\nOliver Johnson\r\nPerpetual Noob\r\nPossibly
+    Legit\r\n"
 --- !u!222 &503375344
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2203,7 +2205,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1385879182}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2248,6 +2250,85 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 521013157}
   m_CullTransparentMesh: 1
+--- !u!1 &528846161
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 528846162}
+  - component: {fileID: 528846164}
+  - component: {fileID: 528846163}
+  m_Layer: 5
+  m_Name: Right
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &528846162
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 528846161}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1385879182}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 304.6, y: 0}
+  m_SizeDelta: {x: 510.7361, y: 200}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &528846163
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 528846161}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 4970a3bcd7ce3d1419501f9901b240c9, type: 3}
+    m_FontSize: 63
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 0
+    m_MaxSize: 300
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 2
+  m_Text: Realeeryan
+--- !u!222 &528846164
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 528846161}
+  m_CullTransparentMesh: 1
 --- !u!1 &534258292
 GameObject:
   m_ObjectHideFlags: 0
@@ -2272,7 +2353,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 534258292}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -27600, z: 0}
+  m_LocalPosition: {x: 0, y: -29125, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1251920982}
@@ -2282,87 +2363,6 @@ Transform:
   m_Father: {fileID: 1485577704}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &578232296
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 578232297}
-  - component: {fileID: 578232299}
-  - component: {fileID: 578232298}
-  m_Layer: 5
-  m_Name: Text
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!224 &578232297
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 578232296}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 833213397}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 900, y: 400}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &578232298
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 578232296}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_FontData:
-    m_Font: {fileID: 12800000, guid: 4970a3bcd7ce3d1419501f9901b240c9, type: 3}
-    m_FontSize: 96
-    m_FontStyle: 1
-    m_BestFit: 0
-    m_MinSize: 0
-    m_MaxSize: 300
-    m_Alignment: 4
-    m_AlignByGeometry: 0
-    m_RichText: 1
-    m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
-    m_LineSpacing: 1
-  m_Text: 'Hallownest
-
-    Vocalized'
---- !u!222 &578232299
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 578232296}
-  m_CullTransparentMesh: 1
 --- !u!1 &583405985
 GameObject:
   m_ObjectHideFlags: 0
@@ -2756,7 +2756,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 678291019}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -7950, z: 0}
+  m_LocalPosition: {x: 0, y: -8470, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 103342566}
@@ -2800,8 +2800,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -450, y: -800}
-  m_SizeDelta: {x: 800, y: 1200}
+  m_AnchoredPosition: {x: -450, y: -875}
+  m_SizeDelta: {x: 800, y: 1350}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &698482759
 MonoBehaviour:
@@ -2891,11 +2891,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c2abfe1e71171b419f276e7f0bdf271, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ModName: {fileID: 833213396}
-  Director: {fileID: 1695039313}
-  Programmer: {fileID: 0}
-  Audio: {fileID: 1385879181}
-  MainNPC: {fileID: 1625222771}
 --- !u!1 &726760018
 GameObject:
   m_ObjectHideFlags: 0
@@ -3080,8 +3075,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 450, y: -700}
-  m_SizeDelta: {x: 800, y: 1000}
+  m_AnchoredPosition: {x: 450, y: -750}
+  m_SizeDelta: {x: 800, y: 1100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &766498060
 MonoBehaviour:
@@ -3155,7 +3150,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 891498331}
-  - {fileID: 578232297}
   m_Father: {fileID: 618661776}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3193,8 +3187,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 450, y: -800}
-  m_SizeDelta: {x: 800, y: 1200}
+  m_AnchoredPosition: {x: 450, y: -875}
+  m_SizeDelta: {x: 800, y: 1350}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &838829749
 MonoBehaviour:
@@ -3305,7 +3299,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1052, y: 416.8}
+  m_SizeDelta: {x: 1315, y: 512}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &891498332
 MonoBehaviour:
@@ -3445,7 +3439,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.0043945312, y: 0.000061035156}
+  m_AnchoredPosition: {x: -0.0043945312, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.464501}
 --- !u!114 &943260232
@@ -3517,8 +3511,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -450, y: -1975}
-  m_SizeDelta: {x: 800, y: 3550}
+  m_AnchoredPosition: {x: -450, y: -2225}
+  m_SizeDelta: {x: 800, y: 4050}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &981959172
 MonoBehaviour:
@@ -3568,18 +3562,6 @@ MonoBehaviour:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
     General Massive Beasts
 
 
@@ -3588,14 +3570,7 @@ MonoBehaviour:
 
 
 
-
-
-
-
-
     Gruzzer
-
-
 
 
 
@@ -3610,15 +3585,14 @@ MonoBehaviour:
 
 
 
-
-
-
     Mosscreep, Mossfly
 
 
 
 
 
+
+    Moss Charger
 
 
 
@@ -3641,11 +3615,7 @@ MonoBehaviour:
 
 
 
-
-
     Fungoon
-
-
 
 
 
@@ -3661,20 +3631,12 @@ MonoBehaviour:
 
 
 
-
-
-
-
     Furious Vengefly
 
 
 
 
-
-
     Volatile Gruzzer
-
-
 
 
 
@@ -3685,12 +3647,7 @@ MonoBehaviour:
 
 
 
-
-
     Lesser Mawlek, Mawlurk
-
-
-
 
 
 
@@ -3699,8 +3656,8 @@ MonoBehaviour:
     Lightseed
 
 
-    Infected
-    Balloon
+    Infected Balloon
+
 
 '
 --- !u!222 &981959173
@@ -3788,7 +3745,7 @@ MonoBehaviour:
     Sentry\r\n\r\n\n\r\n\r\n\r\nHeavy Sentry\r\n\r\n\n\r\n\r\nWinged Sentry, Lance
     Sentry\r\n\r\n\n\r\n\r\nGreat Husk Sentry\r\n\n\r\n\r\n\r\nMistake, Folly\r\n\r\n\r\n\r\n\nSoul
     Twister\r\n\r\n\r\n\nHusk Dandy\r\n\r\n\r\n\r\n\nCowardly Husk\r\n\r\n\r\n\nGluttonous
-    Husk\r\n\r\n\r\n\r\n\nFlukefey\r\n\nFlukemon\r\n\nFlukemunga\r\n\nHusk Miner\r\n\r\n\r\n\r\n\nCrystalized
+    Husk\r\n\r\n\r\n\r\n\nFlukefey\r\n\nFlukemon\r\n\nFlukemunga\r\n\nHusk Miner\r\n\r\n\r\n\r\n\nCrystallised
     Husk\r\n\r\n\r\n\r\n\nSlobbering Husk, Violent Husk\r\n\r\n\r\n\r\n\n\r\nMaggot\r\n\r\n\nLittle
     Weaver\r\n\r\n\r\n\nStalking Devout\r\n\r\n\r\n\nHiveling\r\n\nHive Soldier\r\n\nHive
     Guardian\r\n\nHusk Hive\r\n\r\n\n\r\nMantis Petra\r\n\r\n\nMantis Traitor\r\n\r\n\r\n\r\n\nShielded
@@ -3912,8 +3869,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 450, y: -525}
-  m_SizeDelta: {x: 800, y: 650}
+  m_AnchoredPosition: {x: 450, y: -500}
+  m_SizeDelta: {x: 800, y: 600}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1100044031
 MonoBehaviour:
@@ -3966,9 +3923,7 @@ MonoBehaviour:
     Aki''o Nanamura
 
 
-
     Dutch Blackwood
-
 
 
     James
@@ -4127,8 +4082,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 33.4299, y: 0}
-  m_SizeDelta: {x: 2000, y: 200}
+  m_AnchoredPosition: {x: 2.4618, y: 0}
+  m_SizeDelta: {x: 1921.5469, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1151525928
 MonoBehaviour:
@@ -4206,8 +4161,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 600, y: -1087.5}
-  m_SizeDelta: {x: 800, y: 1775}
+  m_AnchoredPosition: {x: 600, y: -1175}
+  m_SizeDelta: {x: 800, y: 1950}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1164458438
 MonoBehaviour:
@@ -4242,10 +4197,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: "Possibly Legit\r\nRaqus\r\nRealeeryan\r\nRelyea\r\nRusty.\r\nSarah \"SallieKat\"
-    Klipper\r\nShaleah Wagner\r\nStizzl\r\nTAGOrigins\r\nTechnovoid\r\nThe Grinning
-    Gamer\r\nTrailblade\r\nTravis Kegerreis\r\nTristan Nichols\r\nTyropop\r\nVIBE
-    GOD\r\nWindette\r\nWyatt \u201CLucidWraithh\u201D West\r\nYoshiShoes\r\nZacc\r\nZach\r\n"
+  m_Text: "Raqus\r\nRealeeryan\r\nRelyea\r\nRusty.\r\nSarah \"SallieKat\" Klipper\r\nShaleah
+    Wagner\r\nStizzl\r\nTAGOrigins\r\nTechnovoid\r\nThe Grinning Gamer\r\nTrailblade\r\nTravis
+    Kegerreis\r\nTristan Nichols\r\nTyropop\r\nVIBE GOD\r\nvide0gurt\r\nWindette\r\nWyatt
+    \u201CLucidWraithh\u201D West\r\nYoshiShoes\r\nZacc\r\nZach\r\n"
 --- !u!222 &1164458439
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4357,7 +4312,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1296589682}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -24700, z: 0}
+  m_LocalPosition: {x: 0, y: -26150, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2100918578}
@@ -4401,8 +4356,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 450, y: -1250}
-  m_SizeDelta: {x: 800, y: 2100}
+  m_AnchoredPosition: {x: 450, y: -1305}
+  m_SizeDelta: {x: 800, y: 2210}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1300566128
 MonoBehaviour:
@@ -4484,8 +4439,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 450, y: -1137.5}
-  m_SizeDelta: {x: 800, y: 1875}
+  m_AnchoredPosition: {x: 450, y: -1225}
+  m_SizeDelta: {x: 800, y: 2050}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1306843797
 MonoBehaviour:
@@ -4524,6 +4479,8 @@ MonoBehaviour:
 
     Bluejojo
 
+    Cassandra "Friskk" Reyna
+
     Ccmaci
 
     Clairinetti
@@ -4543,8 +4500,6 @@ MonoBehaviour:
 
     flipflopitstimetostop
 
-    Cassandra "Friskk" Reyna
-
     HunterGoldCraft
 
     JellyCORE
@@ -4562,15 +4517,13 @@ MonoBehaviour:
 
     mossbag
 
-    vide0gurt
-
     PossiblyLegit
 
     Raqus
 
     Relyea
 
-    Rusty.
+    Rusty
 
     SalVulcano
 
@@ -4600,6 +4553,8 @@ MonoBehaviour:
     V Siren
 
     VenVanitas
+
+    vide0gurt
 
     Vixian12
 
@@ -4652,8 +4607,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -600, y: -1087.5}
-  m_SizeDelta: {x: 800, y: 1775}
+  m_AnchoredPosition: {x: -600, y: -1175}
+  m_SizeDelta: {x: 800, y: 1950}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1339213905
 MonoBehaviour:
@@ -4776,8 +4731,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -4250}
-  m_SizeDelta: {x: 800, y: 8100}
+  m_AnchoredPosition: {x: 0, y: -4325}
+  m_SizeDelta: {x: 800, y: 8250}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1360895642
 MonoBehaviour:
@@ -5048,6 +5003,7 @@ Transform:
   m_Children:
   - {fileID: 1394350542}
   - {fileID: 213723831}
+  - {fileID: 528846162}
   - {fileID: 521013158}
   m_Father: {fileID: 618661776}
   m_RootOrder: 3
@@ -5076,7 +5032,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1386271030}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -11450, z: 0}
+  m_LocalPosition: {x: 0, y: -12330, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 626487217}
@@ -5110,7 +5066,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1390028458}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -4300, z: 0}
+  m_LocalPosition: {x: 0, y: -4650, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1935501150}
@@ -5233,8 +5189,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 450, y: -1500}
-  m_SizeDelta: {x: 800, y: 2600}
+  m_AnchoredPosition: {x: 450, y: -2250}
+  m_SizeDelta: {x: 800, y: 4100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1414947523
 MonoBehaviour:
@@ -5276,9 +5232,13 @@ MonoBehaviour:
     Henderson\r\nDuckverse\r\nDuncan \"Thatticus\" Storozuk\r\nEdgeTame\r\nfalconfetus8\r\nJohn
     \u201CMadJazzer\u201D Cargille\r\nLeo Abadesco Jr.\r\nLucas Davey\r\nMarguerite
     Smith\r\nMaxim Binder\r\nNym P. Seudo\r\nOliver Johnson\r\nPerpetual Noob\r\nPossibly
-    Legit\r\nTAGOrigins\r\nThe Grinning Gamer\r\nYoshiShoes\r\nZach\r\nZer0PM\r\n\nBuckmister
-    II\r\nFrozenreaper04\r\nPurple_Toaster\r\nZach\r\n\nDragoler {Achievements}\r\nFruit
-    Marm {Hype trailer}\r\n\nMAT\r\n"
+    Legit\r\nTAGOrigins\r\nThe Grinning Gamer\r\nYoshiShoes\r\nZach\r\nZer0PM\r\n\nabreeki001\r\nAndie
+    Sanade\r\nCcmaci\r\nChristopher Cones\r\nConnor Bushoven\r\nDragoler\r\nEdgeTame\r\nfalconfetus8\r\nGarrett
+    Horne\r\nGryphonTheBard\r\nJellyCORE\r\nJohn \u201CMadJazzer\u201D Cargille\r\nKyle
+    \"Kyphoon\" Williams\r\nLeo Abadesco Jr.\r\nMadeleine Hamley\r\nMarguerite Smith\r\nMAT\r\nMaxim
+    Binder\r\nMiriShalyn\r\nOliver Johnson\r\nPerpetual Noob\r\nPhilip Hughes \r\nRealeeryan\r\nThe
+    Grinning Gamer\r\nYoshiShoes\r\nZer0PM\r\n\n\nBuckmister II\r\nFrozenreaper04\r\nPurple_Toaster\r\nZach\r\n\nDragoler
+    {Achievements}\r\nFruit Marm {Hype trailer}\r\n\nMAT\r\n\n\n\n\n\n\n\n\n\n\n\n"
 --- !u!222 &1414947524
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5532,7 +5492,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1485577704
 Transform:
   m_ObjectHideFlags: 0
@@ -5808,8 +5768,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 450, y: -2150}
-  m_SizeDelta: {x: 800, y: 3900}
+  m_AnchoredPosition: {x: 450, y: -2325}
+  m_SizeDelta: {x: 800, y: 4250}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1627394676
 MonoBehaviour:
@@ -5898,8 +5858,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 450, y: -350}
-  m_SizeDelta: {x: 800, y: 300}
+  m_AnchoredPosition: {x: 450, y: -360}
+  m_SizeDelta: {x: 800, y: 320}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1688254538
 MonoBehaviour:
@@ -6094,8 +6054,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -450, y: -700}
-  m_SizeDelta: {x: 800, y: 1000}
+  m_AnchoredPosition: {x: -450, y: -750}
+  m_SizeDelta: {x: 800, y: 1100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1712182517
 MonoBehaviour:
@@ -6133,7 +6093,7 @@ MonoBehaviour:
   m_Text: "Ancient Basin Wishing Well\r\n\nCity Entrance Tablet\r\n\nGreenpath Tablets\r\n\nMantis
     Village Tablets\r\n\r\n\r\n\nMenderbug\u2019s Dear Diary\r\n\nPath of Pain Tablet\r\n\nPilgrims
     Way Signs\r\n\nSonstress Marissa Display\r\n\nSoul Sanctum Records\r\n\nSporeshroom
-    Tablets\r\n\n\r\nTraitors\u2019 Child Gravestone\r\n"
+    Tablets\r\n\n\nTraitors\u2019 Child Gravestone\r\n"
 --- !u!222 &1712182518
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6480,8 +6440,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -450, y: -1225}
-  m_SizeDelta: {x: 800, y: 2050}
+  m_AnchoredPosition: {x: -450, y: -1305}
+  m_SizeDelta: {x: 800, y: 2210}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1826300842
 MonoBehaviour:
@@ -6770,7 +6730,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1893127502}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -5500, z: 0}
+  m_LocalPosition: {x: 0, y: -5860, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 439679069}
@@ -6814,8 +6774,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -500, y: -350}
-  m_SizeDelta: {x: 900, y: 300}
+  m_AnchoredPosition: {x: -500, y: -360}
+  m_SizeDelta: {x: 900, y: 320}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1914455267
 MonoBehaviour:
@@ -6850,8 +6810,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: "Hunter\u2019s Journal | General Descriptions\r\nHunter\u2019s Journal
-    | Hunter\u2019s Notes\r\nInspection Descriptions\r\nItem & Charm Descriptions\r\n\r\n"
+  m_Text: "Hunter\u2019s Journal | General Descs\r\nHunter\u2019s Journal | Hunter\u2019s
+    Notes\r\nInspection Descriptions\r\nItem & Charm Descriptions\r\n\r\n"
 --- !u!222 &1914455268
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6959,7 +6919,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1926674928}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -12850, z: 0}
+  m_LocalPosition: {x: 0, y: -13830, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1434984979}
@@ -7161,8 +7121,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 450, y: -1225}
-  m_SizeDelta: {x: 800, y: 2050}
+  m_AnchoredPosition: {x: 450, y: -1337.4496}
+  m_SizeDelta: {x: 800, y: 2274.8994}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1939914964
 MonoBehaviour:
@@ -7198,8 +7158,8 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "Duncan \"Thatticus\" Storozuk\r\n\r\nTristan Nichols\r\n\r\nRichard Gibson\r\n\r\nMarguerite
-    Smith\r\n\r\nYoshiShoes (& her brother)\r\n\r\nSprout\r\n\r\nBasil\r\n\r\nHelen
-    Birchall\r\nMiriShalyn\r\nZer0PM\r\n\r\nPossibly Legit\r\nAlycoris\r\nYoshieShoes\r\nZacc\r\n\r\nMaxim
+    Smith\r\n\r\nYoshiShoes (& her brother)\r\n\r\nSprout\r\n\r\nBasil\r Greene\n\r\nHelen
+    Birchall\r\nMiriShalyn\r\nZer0PM\r\n\r\nAlycoris\r\nPossibly Legit\r\nYoshieShoes\r\nZacc\r\n\r\nMaxim
     Binder\r\nYoshieShoes\r\n\r\nDragonRoIlZ\r\n\r\nCassandra \"Friskk\" Reyna\r\n\r\nOliver
     Johnson\r\n\r\nPhilip Hughes\r\nTristan Nichols\r\n\r\nEliGNations.VA\r\n\r\nJames
     Dijit\r\n\r\nTheTalkingFlower\r\n\r\nCcmaci\r\n\r\nPerpetual Noob\r\nRelyea\r\nRusty.\r\nStizzl\r\nT4coTV\r\nWindette\r"
@@ -7284,17 +7244,17 @@ MonoBehaviour:
   m_Text: "Andie Sanade\r\nCcmaci\r\nDavis Henderson\r\nDragonRoIlZ\r\nDuckverse\r\nLucas
     Davey\r\nMajorDZaster\r\nMarguerite Smith\r\nMaxim Binder\r\nRaqus\r\nSmorales300\r\nTemporalitea\r\nThe
     Grinning Gamer\r\nTrailblade\r\n\r\nAndie Sanade\r\nJohn \u201CMadJazzer\u201D
-    Cargille\r\n\r\nAndie Sanade\r\nflipflopitstimetostop\r\nLeo Abadesco Jr. \r\n\r\nBasil\r\nCcmaci\r\nLeo
-    Abadesco Jr. \r\nvide0gurt\r\n\r\nAndie Sanade\r\nAlexandra Smith\r\nDutch Blackwood\r\nWyatt
-    \u201CLucidWraithh\u201D West\r\n\r\nAndieSanade\r\nJoseph Caddell\r\nJellyCORE\r\nMadeleine
-    Hamley\r\n\r\nConnor Bushoven\r\nJoseph Caddell\r\n\r\nAlycoris\r\nCcmaci\r\n\r\nDuckverse\r\nJellyCORE\r\nvide0gurt\r\nYoshiShoes\r\nZacc\r\n\r\nCcmaci\r\nJohn
-    \u201CMadJazzer\u201D Cargille\r\nMaxim Binder\r\n\r\nAndie Sanade\r\nMR.C Gaming\r\nvide0gurt\r\nRaqus\r\nTravis
-    Kegerreis\r\n\r\nJoseph Caddell\r\nMaxim Binder\r\nOliver Johnson\r\nRealeeryan\r\n\r\nDragoler\r\nMadeleine
+    Cargille\r\n\r\nAndie Sanade\r\nflipflopitstimetostop\r\nLeo Abadesco Jr. \r\n\r\nBasil\r
+    Greene\nCcmaci\r\nLeo Abadesco Jr. \r\nvide0gurt\r\n\r\nAndie Sanade\r\nAlexandra
+    Smith\r\nDutch Blackwood\r\nWyatt \u201CLucidWraithh\u201D West\r\n\r\nAndieSanade\r\nJoseph
+    Caddell\r\nJellyCORE\r\nMadeleine Hamley\r\n\r\nConnor Bushoven\r\nJoseph Caddell\r\n\r\nAlycoris\r\nCcmaci\r\n\r\nDuckverse\r\nJellyCORE\r\nvide0gurt\r\nYoshiShoes\r\nZacc\r\n\r\nCcmaci\r\nJohn
+    \u201CMadJazzer\u201D Cargille\r\nMaxim Binder\r\n\r\nAndie Sanade\r\nMR.C Gaming\r\r\nRaqus\r\nTravis
+    Kegerreis\r\nvide0gurt\n\r\nJoseph Caddell\r\nMaxim Binder\r\nOliver Johnson\r\nRealeeryan\r\n\r\nDragoler\r\nMadeleine
     Hamley\r\nTemporalitea\r\nTrailblade\r\n\r\nDavis Henderson\r\nDutch Blackwood\r\nKyle
     \"Kyphoon\" Williams\r\nWyatt \u201CLucidWraithh\u201D West\r\n\r\nDuckverse\r\nMajorDZaster\r\nThe
-    Grinning Gamer\r\nZacc\r\n\r\nDavis Henderson\r\nLucas Davey\r\nTravis Kegerreis\r\n\r\nflipflopitstimetostop\r\nMajorDZaster\r\nTAGOrigins\r\nTechnovoid\r\n\r\nEliGNations.VA\r\nvide0gurt\r\nOliver
-    Johnson\r\n\r\nAlexandra Smith\r\nAlycoris\r\nDutch Blackwood\r\nThe Grinning
-    Gamer\r\n\r\nabreeki001\r\n\r\nLeo Abadesco Jr. \r\n\r\nJustSvenThings\r\n\r\nAndie
+    Grinning Gamer\r\nZacc\r\n\r\nDavis Henderson\r\nLucas Davey\r\nTravis Kegerreis\r\n\r\nflipflopitstimetostop\r\nMajorDZaster\r\nTAGOrigins\r\nTechnovoid\r\n\r\nEliGNations.VA\r\r\nOliver
+    Johnson\nvide0gurt\r\n\r\nAlexandra Smith\r\nAlycoris\r\nDutch Blackwood\r\nThe
+    Grinning Gamer\r\n\r\nabreeki001\r\n\r\nLeo Abadesco Jr. \r\n\r\nJustSvenThings\r\n\r\nAndie
     Sanade\r\nfrozenreaper04\r\nMR.C Gaming\r\nTrailblade\r\n\r\nCcmaci\r\nDuckverse\r\nEliGNations.VA\r\nHelen
     Birchall\r\n\r\nCcmaci\r\nflipflopitstimetostop\r\nMadeleine Hamley\r\nTechnovoid\r\nTravis
     Kegerreis\r\n\r\nThe Grinning Gamer\r\nTyler L \u201CFatherTw1nk\u201D\r\n\r\nAlycoris\r\nDragoler\r\nDragonRoIlZ\r\n\r\nCcmaci\r\nDavis
@@ -7304,9 +7264,9 @@ MonoBehaviour:
     West\r\n\r\nabreeki001\r\nJoseph Caddell\r\nLucas Davey\r\nZacc\r\n\r\nflipflopitstimetostop\r\nHelen
     Birchall\r\nTemporalitea\r\n\r\nAlexandra Smith\r\nCcmaci\r\nRaqus\r\n\r\nAlycoris\r\nDutch
     Blackwood\r\nTemporalitea\r\n\r\nJames Dijit\r\n\r\nCcmaci\r\nflipflopitstimetostop\r\nJohn
-    \u201CMadJazzer\u201D Cargille\r\nLucas Davey\r\nMadeleine Hamley\r\nYoshiShoes\r\n\r\nEliGNations.VA\r\nTAGOrigins\r\nYoshiShoes\r\n\r\nBasil\r\nAlexandra
-    Smith\r\nThe Grinning Gamer\r\n\r\nJohn \u201CMadJazzer\u201D Cargille\r\nTechnovoid\r\nTravis
-    Kegerreis"
+    \u201CMadJazzer\u201D Cargille\r\nLucas Davey\r\nMadeleine Hamley\r\nYoshiShoes\r\n\r\nEliGNations.VA\r\nTAGOrigins\r\nYoshiShoes\r\n\r\nBasil\r
+    Greene\nAlexandra Smith\r\nThe Grinning Gamer\r\n\r\nJohn \u201CMadJazzer\u201D
+    Cargille\r\nTechnovoid\r\nTravis Kegerreis"
 --- !u!222 &1943259949
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7339,7 +7299,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1953355101}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -16200, z: 0}
+  m_LocalPosition: {x: 0, y: -17300, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1939310646}
@@ -7384,8 +7344,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -450, y: -1137.5}
-  m_SizeDelta: {x: 800, y: 1875}
+  m_AnchoredPosition: {x: -450, y: -1225}
+  m_SizeDelta: {x: 800, y: 2050}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1987782384
 MonoBehaviour:
@@ -7420,47 +7380,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Grubby Grub Grubs
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  m_Text: 'Grubby Grub Grub
 
 
 
@@ -7634,8 +7554,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 450, y: -500}
-  m_SizeDelta: {x: 800, y: 600}
+  m_AnchoredPosition: {x: 450, y: -625}
+  m_SizeDelta: {x: 800, y: 850}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2002629690
 MonoBehaviour:
@@ -7671,7 +7591,8 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 2
   m_Text: "John \u201CMadJazzer\u201D Cargille\r\nRaqus\r\nJoseph Caddell\r\nDuncan
-    \"Thatticus\" Storozuk\r\nHarper Xie Xie\r\nHarper Xie Xie\r\nvide0gurt\r\n"
+    \"Thatticus\" Storozuk\r\nHarper Xie Xie\r\nHarper Xie Xie\r\nvide0gurt\r\nJames
+    Weirich\r\nabreeki001"
 --- !u!222 &2002629691
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7704,7 +7625,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2050309686}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -15500, z: 0}
+  m_LocalPosition: {x: 0, y: -16580, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 118318249}
@@ -7748,8 +7669,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 450, y: -4250}
-  m_SizeDelta: {x: 800, y: 8100}
+  m_AnchoredPosition: {x: 450, y: -4475}
+  m_SizeDelta: {x: 800, y: 8550}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2056986557
 MonoBehaviour:
@@ -7797,8 +7718,8 @@ MonoBehaviour:
     West\r\nZacc\r\n\nDragonRoIlZ\r\n\n\n\n\n\n\nConnor Bushoven\r\nMadeleine Hamley\r\nMR.C
     Gaming\r\nOliver Johnson\r\nYoshiShoes\r\n\n\n\n\n\n\nLucas Davey\r\n\nJoseph
     Caddell\r\n\nLucas Davey\r\n\n\n\n\n\n\nAki'o Nanamura\r\n\nCcmaci\r\nHunterGoldCraft\r\nLucas
-    Davey\r\nNym P. Seudo\r\nOliver Johnson\r\n\nAlexandra Smith\r\n\nGoodKnightNintendo\r\n\nCcmaci\r\n\n\n\n\n\n\nTemporalitea\r\n\nfrozenreaper04\r\n\nEliGNations.VA\r\n\nCcmaci\r\nMaxim
-    Binder\r\nJohn \u201CMadJazzer\u201D Cargille\n\n\n\n\n\n\nMiriShalyn\r\n\nUnkle
+    Davey\r\nNym P. Seudo\r\nOliver Johnson\r\n\nAlexandra Smith\r\n\nGoodKnightNintendo\r\n\nCcmaci\r\n\n\n\n\n\n\nTemporalitea\r\n\nfrozenreaper04\r\n\nEliGNations.VA\r\n\nCcmaci\r\r\nJohn
+    \u201CMadJazzer\u201D Cargille\nMaxim Binder\n\n\n\n\n\n\nMiriShalyn\r\n\nUnkle
     Mike's World\r\n\n\n\n\n\n\nCathryn Archer\r\n\nDragoler\r\n"
 --- !u!222 &2056986558
 CanvasRenderer:
@@ -7842,8 +7763,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 450, y: -600}
-  m_SizeDelta: {x: 800, y: 800}
+  m_AnchoredPosition: {x: 450, y: -712.2244}
+  m_SizeDelta: {x: 800, y: 1024.4482}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2067793414
 MonoBehaviour:
@@ -7878,7 +7799,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Richard Gibson\r\n\nBasil\r\nClairinetti\r\nDuckverse\r\nDuncan \"Thatticus\"
+  m_Text: "Richard Gibson\r\n\nBasil Greene\nClairinetti\r\nDuckverse\r\nDuncan \"Thatticus\"
     Storozuk\r\nLucas Davey\r\nMaxim Binder\r\nSarah \"SallieKat\" Klipper\r\n\nAlycoris\r\nLandon
     VanHorn\r\n\nWyatt \u201CLucidWraithh\u201D West\r\n\nazzki\r\n\nT4coTV\r\nTechnovoid\r\n"
 --- !u!222 &2067793415
@@ -7992,7 +7913,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2101193860}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -36000, z: 0}
+  m_LocalPosition: {x: 0, y: -37525, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1526933395}
@@ -8026,7 +7947,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2105434485}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -8950, z: 0}
+  m_LocalPosition: {x: 0, y: -9720, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 51076130}
@@ -8070,8 +7991,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -450, y: -2150}
-  m_SizeDelta: {x: 800, y: 3900}
+  m_AnchoredPosition: {x: -450, y: -2325}
+  m_SizeDelta: {x: 800, y: 4250}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2111274625
 MonoBehaviour:
@@ -8242,7 +8163,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2142967715}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -13900, z: 0}
+  m_LocalPosition: {x: 0, y: -14830, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 214082902}
