@@ -376,9 +376,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Basil\r Greene\nCcmaci\r\nDragonRoIlZ\r\nEdgeTame\r\nFlipflopitstimetostop\r\nHunterGoldCraft\r\nMajorDZaster\r\nPossibly
-    Legit\r\nRealeeryan\r\nTAGOrigins\r\nTechnovoid\r\nThe Grinning Gamer\r\nYoshieShoes\r\n\r\nBasil\r
-    Greene\nCody \u201CAn Odd Hermit\u201D Silver\r\nLucas Davey\r\nRaqus\r\nRealeeryan\r\nWyatt
+  m_Text: "Basil G.\nCcmaci\r\nDragonRoIlZ\r\nEdgeTame\r\nFlipflopitstimetostop\r\nHunterGoldCraft\r\nMajorDZaster\r\nPossibly
+    Legit\r\nRealeeryan\r\nTAGOrigins\r\nTechnovoid\r\nThe Grinning Gamer\r\nYoshieShoes\r\n\r\nBasil
+    G.\nCody \u201CAn Odd Hermit\u201D Silver\r\nLucas Davey\r\nRaqus\r\nRealeeryan\r\nWyatt
     \u201CLucidWraithh\u201D West\r\n\r\nCcmaci\r\nfalconfetus8\r\nfrozenreaper04\r\n\r\nTrailblade\r\n\r\nEdgeTame\r\nMaxim
     Binder\r\nRaqus\r\nZer0PM\r\n\r\nDuckverse\r\nfrozenreaper04\r\nMR.C Gaming\r\nPossibly
     Legit\r\nZacc\r\n\nAlycoris\nPossibly Legit\nYoshieShoes\nZacc\n\r\nPossibly
@@ -388,8 +388,7 @@ MonoBehaviour:
     Abadesco Jr.\r\nsmorales300\r\nTheTalkingFlower\r\n\r\nRaqus\r\nTemporalitea\r\nWyatt
     \u201CLucidWraithh\u201D West\r\n\r\nAlexandra Smith\r\nDuckverse\r\nNym P. Seudo\r\n\r\nJezoShow\r\nMR.C
     Gaming\r\nvide0gurt\r\n\r\nAlycoris\r\nPossibly Legit\r\nRealeeryan\r\nWyatt
-    \u201CLucidWraithh\u201D West\r\n\r\nCassandra \"Friskk\" Reyna\r\n\r\nCassandra
-    \"Friskk\" Reyna"
+    \u201CLucidWraithh\u201D West\r\n\r\nMiriShalyn\n\r\nMiriShalyn"
 --- !u!222 &23311107
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -966,14 +965,15 @@ MonoBehaviour:
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
+    m_VerticalOverflow: 1
     m_LineSpacing: 1
   m_Text: "Reveal Trailer Hype VAs\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\nEarly Developement
     Helpers\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nBeta
     Testers\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\nChoir
     for HKV\u2019s Title Screen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy
-    Discord Mod Team\r\n\r\n\r\n\r\n\nContributing Artists\r\n\r\n\nMusical Composer
-    for HKV\u2019s OST\r\n"
+    Discord Mod Team\r\n\n\n\n\n\rLast Minute Audio Engineers\n\r\n\n\n\rLast Minute
+    Programming\n\n\nContributing Artists\r\n\r\n\nVocals for HV\u2019s Credits\n\n\nMusical
+    Composer for HKV\u2019s OST\r\n"
 --- !u!222 &200409140
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1095,7 +1095,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -165}
+  m_AnchoredPosition: {x: 0, y: -135}
   m_SizeDelta: {x: 1094, y: 52.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &258474107
@@ -1962,7 +1962,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: Ccmaci    Realeeryan    RedTreeVortex         Anonymous Shade
+  m_Text: '    Ccmaci    Realeeryan'
 --- !u!222 &466815113
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3999,7 +3999,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 175}
+  m_AnchoredPosition: {x: 0, y: 135}
   m_SizeDelta: {x: 600, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1134382806
@@ -4676,7 +4676,7 @@ MonoBehaviour:
 
     Alycoris
 
-    Basil Greene
+    Basil G.
 
     Buckmister II
 
@@ -5139,7 +5139,7 @@ MonoBehaviour:
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
+    m_VerticalOverflow: 1
     m_LineSpacing: 1
   m_Text: "GoodKnightNintendo\r\nJohn \u201CMadJazzer\u201D Cargille\r\nLucas Davey\r\nNicholas
     Dunlap\r\nonegrainof\r\nPatrick Compton\r\nPerpetual Noob\r\nTyler L \u201CFatherTw1nk\u201D\r\n\nAlycoris\r\nastralcue\r\nBloodfang\r\nCashman0604\r\nCosbat\r\nEdgeTame\r\nfrozenreaper04\r\nIben
@@ -5153,8 +5153,9 @@ MonoBehaviour:
     Horne\r\nGryphonTheBard\r\nJellyCORE\r\nJohn \u201CMadJazzer\u201D Cargille\r\nKyle
     \"Kyphoon\" Williams\r\nLeo Abadesco Jr.\r\nMadeleine Hamley\r\nMarguerite Smith\r\nMAT\r\nMaxim
     Binder\r\nMiriShalyn\r\nOliver Johnson\r\nPerpetual Noob\r\nPhilip Hughes \r\nRealeeryan\r\nThe
-    Grinning Gamer\r\nYoshiShoes\r\nZer0PM\r\n\n\nBuckmister II\r\nFrozenreaper04\r\nPurple_Toaster\r\nZach\r\n\nDragoler
-    {Achievements}\r\nFruit Marm {Hype trailer}\r\n\nMAT\r\n\n\n\n\n\n\n\n\n\n\n\n"
+    Grinning Gamer\r\nYoshiShoes\r\nZer0PM\r\n\n\nBuckmister II\r\nFrozenreaper04\r\nPurple_Toaster\r\nZach\r\n\nAnonymousShade\r\nLucas
+    Davey\r\nRedtreevortex\r\n\nA Dad\r\nRuttie\r\n\nDragoler {Achievements}\r\nFruit
+    Marm {Hype trailer}\r\n\nMAT\r\nMiriShalyn \r\n\nMAT\r\n\n\n\n\n\n\n\n\n\n\n\n"
 --- !u!222 &1414947524
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7054,7 +7055,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "Duncan \"Thatticus\" Storozuk\r\n\r\nTristan Nichols\r\n\r\nRichard Gibson\r\n\r\nMarguerite
-    Smith\r\n\r\nYoshiShoes (& her brother)\r\n\r\nSprout\r\n\r\nBasil\r Greene\n\r\nHelen
+    Smith\r\n\r\nYoshiShoes (& her brother)\r\n\r\nSprout\r\n\r\nBasil G.\n\r\nHelen
     Birchall\r\nMiriShalyn\r\nZer0PM\r\n\r\nAlycoris\r\nPossibly Legit\r\nYoshieShoes\r\nZacc\r\n\r\nMaxim
     Binder\r\nYoshieShoes\r\n\r\nDragonRoIlZ\r\n\r\nCassandra \"Friskk\" Reyna\r\n\r\nOliver
     Johnson\r\n\r\nPhilip Hughes\r\nTristan Nichols\r\n\r\nEliGNations.VA\r\n\r\nJames
@@ -7140,8 +7141,8 @@ MonoBehaviour:
   m_Text: "Andie Sanade\r\nCcmaci\r\nDavis Henderson\r\nDragonRoIlZ\r\nDuckverse\r\nLucas
     Davey\r\nMajorDZaster\r\nMarguerite Smith\r\nMaxim Binder\r\nRaqus\r\nSmorales300\r\nTemporalitea\r\nThe
     Grinning Gamer\r\nTrailblade\r\n\r\nAndie Sanade\r\nJohn \u201CMadJazzer\u201D
-    Cargille\r\n\r\nAndie Sanade\r\nflipflopitstimetostop\r\nLeo Abadesco Jr. \r\n\r\nBasil\r
-    Greene\nCcmaci\r\nLeo Abadesco Jr. \r\nvide0gurt\r\n\r\nAndie Sanade\r\nAlexandra
+    Cargille\r\n\r\nAndie Sanade\r\nflipflopitstimetostop\r\nLeo Abadesco Jr. \r\n\r\nBasil
+    G.\nCcmaci\r\nLeo Abadesco Jr. \r\nvide0gurt\r\n\r\nAndie Sanade\r\nAlexandra
     Smith\r\nDutch Blackwood\r\nWyatt \u201CLucidWraithh\u201D West\r\n\r\nAndieSanade\r\nJoseph
     Caddell\r\nJellyCORE\r\nMadeleine Hamley\r\n\r\nConnor Bushoven\r\nJoseph Caddell\r\n\r\nAlycoris\r\nCcmaci\r\n\r\nDuckverse\r\nJellyCORE\r\nvide0gurt\r\nYoshiShoes\r\nZacc\r\n\r\nCcmaci\r\nJohn
     \u201CMadJazzer\u201D Cargille\r\nMaxim Binder\r\n\r\nAndie Sanade\r\nMR.C Gaming\r\r\nRaqus\r\nTravis
@@ -7160,9 +7161,9 @@ MonoBehaviour:
     West\r\n\r\nabreeki001\r\nJoseph Caddell\r\nLucas Davey\r\nZacc\r\n\r\nflipflopitstimetostop\r\nHelen
     Birchall\r\nTemporalitea\r\n\r\nAlexandra Smith\r\nCcmaci\r\nRaqus\r\n\r\nAlycoris\r\nDutch
     Blackwood\r\nTemporalitea\r\n\r\nJames Dijit\r\n\r\nCcmaci\r\nflipflopitstimetostop\r\nJohn
-    \u201CMadJazzer\u201D Cargille\r\nLucas Davey\r\nMadeleine Hamley\r\nYoshiShoes\r\n\r\nEliGNations.VA\r\nTAGOrigins\r\nYoshiShoes\r\n\r\nBasil\r
-    Greene\nAlexandra Smith\r\nThe Grinning Gamer\r\n\r\nJohn \u201CMadJazzer\u201D
-    Cargille\r\nTechnovoid\r\nTravis Kegerreis"
+    \u201CMadJazzer\u201D Cargille\r\nLucas Davey\r\nMadeleine Hamley\r\nYoshiShoes\r\n\r\nEliGNations.VA\r\nTAGOrigins\r\nYoshiShoes\r\n\r\nBasil
+    G.\nAlexandra Smith\r\nThe Grinning Gamer\r\n\r\nJohn \u201CMadJazzer\u201D Cargille\r\nTechnovoid\r\nTravis
+    Kegerreis"
 --- !u!222 &1943259949
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7606,7 +7607,7 @@ MonoBehaviour:
     Binder\r\n\nTristan Nichols\r\n\n\n\n\n\n\nfalconfetus8\r\nWyatt \u201CLucidWraithh\u201D
     West\r\nYoshiShoes\r\n\r\nRaqus\r\n\r\nMajorDZaster\r\nTrailblade\r\n\r\nTemporalitea\r\n\r\nabreeki001\r\nAlycoris\r\nCcmaci\r\nEliGNations.VA\r\nfrozenreaper04\r\nLucas
     Davey\r\nMaxim Binder\r\nNym P. Seudo\r\nRaqus\r\nSarah \"SallieKat\" Klipper\r\nTAGOrigins\r\nThe
-    Grinning Gamer\r\n\r\nAlycoris\r\nBasil\r\nHelen Birchall\r\nZer0PM\n\n\n\n\n\n\nKyle
+    Grinning Gamer\r\n\r\nAlycoris\r\nBasil G.\nHelen Birchall\r\nZer0PM\n\n\n\n\n\n\nKyle
     \"Kyphoon\" Williams\r\nRealeeryan\r\n\nRaqus\r\nThe Grinning Gamer\r\n\nYoshiShoes\r\n\r\n\n\n\n\n\nCcmaci\r\n\nflipflopitstimetostop\r\n\nAndie
     Sanade\r\n\nCcmaci\r\nflipflopitstimetostop\r\n\n\n\n\n\n\nSprout\r\n\nTristan
     Nichols\r\n\nflipflopitstimetostop\r\n\nvide0gurt\r\nWyatt \u201CLucidWraithh\u201D
@@ -7694,7 +7695,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Richard Gibson\r\n\nBasil Greene\nClairinetti\r\nDuckverse\r\nDuncan \"Thatticus\"
+  m_Text: "Richard Gibson\r\n\nBasil G.\nClairinetti\r\nDuckverse\r\nDuncan \"Thatticus\"
     Storozuk\r\nLucas Davey\r\nMaxim Binder\r\nSarah \"SallieKat\" Klipper\r\n\nAlycoris\r\nLandon
     VanHorn\r\n\nWyatt \u201CLucidWraithh\u201D West\r\n\nazzki\r\n\nT4coTV\r\nTechnovoid\r\n"
 --- !u!222 &2067793415
