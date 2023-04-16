@@ -275,6 +275,7 @@ MonoBehaviour:
   m_Text: 'Colosseum Spectators
 
 
+
     General Godseekers
 
 
@@ -376,13 +377,12 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Basil G.\nCcmaci\r\nDragonRoIlZ\r\nEdgeTame\r\nFlipflopitstimetostop\r\nHunterGoldCraft\r\nMajorDZaster\r\nPossibly
-    Legit\r\nRealeeryan\r\nTAGOrigins\r\nTechnovoid\r\nThe Grinning Gamer\r\nYoshieShoes\r\n\r\nBasil
-    G.\nCody \u201CAn Odd Hermit\u201D Silver\r\nLucas Davey\r\nRaqus\r\nRealeeryan\r\nWyatt
+  m_Text: "Lief\nCcmaci\r\nDragonRoIlZ\r\nEdgeTame\r\nFlipflopitstimetostop\r\nHunterGoldCraft\r\nMajorDZaster\r\nPossibly
+    Legit\r\nRealeeryan\r\nTAGOrigins\r\nTechnovoid\r\nThe Grinning Gamer\r\nYoshiShoes\r\n\r\nLief\nCody
+    \u201CAn Odd Hermit\u201D Silver\r\nLucas Davey\r\nRaqus\r\nRealeeryan\r\nWyatt
     \u201CLucidWraithh\u201D West\r\n\r\nCcmaci\r\nfalconfetus8\r\nfrozenreaper04\r\n\r\nTrailblade\r\n\r\nEdgeTame\r\nMaxim
     Binder\r\nRaqus\r\nZer0PM\r\n\r\nDuckverse\r\nfrozenreaper04\r\nMR.C Gaming\r\nPossibly
-    Legit\r\nZacc\r\n\nAlycoris\nPossibly Legit\nYoshieShoes\nZacc\n\r\nPossibly
-    Legit\r\n\r\nTheTalkingFlower\r\n\r\nTheTalkingFlower\r\n\r\nCcmaci\r\n\r\nCcmaci\r\nJoseph
+    Legit\r\nZacc\r\n\nAlycoris\nPossibly Legit\nYoshiShoes\nZacc\n\r\nPossibly Legit\r\n\r\nTheTalkingFlower\r\n\r\nTheTalkingFlower\r\n\r\nCcmaci\r\n\r\nCcmaci\r\nJoseph
     Caddell\r\nTAGOrigins\r\n\r\nCcmaci\r\nRealeeryan\r\nWyatt \u201CLucidWraithh\u201D
     West\r\n\r\nPossibly Legit\r\n\r\nCassandra \"Friskk\" Reyna\r\nJezoShow\r\nLeo
     Abadesco Jr.\r\nsmorales300\r\nTheTalkingFlower\r\n\r\nRaqus\r\nTemporalitea\r\nWyatt
@@ -577,7 +577,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 2.461792, y: -150}
+  m_AnchoredPosition: {x: 2.461792, y: -90}
   m_SizeDelta: {x: 1921.5469, y: 340.3167}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &74377399
@@ -614,14 +614,14 @@ MonoBehaviour:
     m_VerticalOverflow: 1
     m_LineSpacing: 1.15
   m_Text: "I hold a deep appreciation for this game\u2019s lore. Years it\u2019s
-    been deliberated,\r\nbut we\u2019ve yet to lose enjoyment in pondering the unknown.
-    What a special\n thing that is:\r\nto be remembered, long after your story has
-    ended. A feat few shall ever\n accomplish.\r\n\r\nHallownest Vocalized is a testament
+    been deliberated,\r\nbut we\u2019ve yet to lose enjoyment in pondering the unknown. 
+    What a special thing that is:\r\nto be remembered, long after your story has
+    ended. A feat few shall ever accomplish.\r\n\r\nHallownest Vocalized is a testament
     to that.\r\n\r\nThrough spoken words, I show you the love and care Team Cherry
-    places in\n their dialogue.\r\nThrough just a single change, the dead Kingdom
-    of Hallownest is all the more\n alive.\r\n\r\nI hope you enjoyed my perspective
-    on this weird and wonderful world,\r\nand to all who helped in realizing my dream:\r\n\r\nThank
-    you, truly. \r\n\n\t\t\t\t~Ccmaci\n\r\n"
+    places in their dialogue.\r\nThrough a single change, the dead Kingdom of Hallownest
+    is all the more alive.\r\n\r\nI hope you enjoyed my perspective on this weird
+    and wonderful world,\r\nand to all who helped in realizing my dream:\r\n\r\nThank
+    you, truly. \r\n\n~Ccmaci\n\r\n"
 --- !u!222 &74377400
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1089,11 +1089,11 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: "Reveal Trailer Hype VAs\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\nEarly Developement
     Helpers\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nBeta
-    Testers\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\nChoir
+    Testers\r\n\r\n\r\n\r\n\n\n\n\n\n\n\n\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\nChoir
     for HKV\u2019s Title Screen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy
-    Discord Mod Team\r\n\n\n\n\n\rLast Minute Audio Engineers\n\r\n\n\n\rLast Minute
-    Programming\n\n\nContributing Artists\r\n\r\n\nVocals for HV\u2019s Credits\n\n\nMusical
-    Composer for HKV\u2019s OST\r\n"
+    Discord Mod Team\r\n\n\n\n\nMetadata Support\n\n\n\rLast Minute Audio Engineers\n\r\n\n\n\rLast
+    Minute Programming\n\n\n\nDev Babies!\n\n\nContributing Artists\r\n\r\n\nVocals
+    for HV\u2019s Credits\n\n\nMusical Composer for HKV\u2019s OST\r\n"
 --- !u!222 &200409140
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1839,8 +1839,8 @@ MonoBehaviour:
     Cloak Beast\r\n\n\n\n\n\n\nPleasure House Dandies\r\n\r\n\n\r\n\r\nWatcher Spire
     Dandies\r\n\n\n\n\n\n\n\nCrystallised Snail Shaman\r\n\nKing\u2019s Idol Corpses\r\n\n\r\nMining
     Golem\r\n\n\n\n\n\n\nFailed Tramway Workers\r\n\r\n\r\n\nVictim of Beast\u2019s
-    Den\r\n\nVictims of Distant Village\r\n\r\n\nVictim of Midwife\r\n\nVictims of
-    Nosk\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\nWeaver Corpses\r\n\n\n\n\n\n\n\n\n\nDrained
+    Den\r\n\nCocoons of Distant Village\r\n\r\n\n\n\n\n\n\n\n\n\n\nVictim of Midwife\r\n\n\nVictims
+    of Nosk\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\n\r\nWeaver Corpses\r\n\n\n\n\n\n\n\n\n\nDrained
     Husk Guards\r\n\r\n\nHallownest Seal Dandies\r\n\r\n\nOvergrown Snail Shaman\r\n\n\n\n\n\n\nDirtmouth\u2019s
     Well Corpse\r\n\nGiant Aspid Mother\r\n\nOvertaken Husk Guard\r\n\nTram Corpses\r\n\n\n\n\n\n\n\nGiant
     Shrumal Corpse\r\n\nSentry Corpse\r\n\nImprisoned Corpse\r\n\nVictims of Leg
@@ -2161,7 +2161,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: '    Ccmaci    Realeeryan'
+  m_Text: '   Ccmaci      Realeeryan'
 --- !u!222 &466815113
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4716,6 +4716,8 @@ MonoBehaviour:
 
     donfuria
 
+    Dragoler
+
     DragonRoIlZ
 
     EdgeTame
@@ -4742,11 +4744,18 @@ MonoBehaviour:
     Leo
     Abadesco Jr.
 
+    Madeleine Hamley
+
     MajorDZaster
+
+    Mollymauk17
 
     mossbag
 
-    PossiblyLegit
+    NoodelFreak
+
+    Possibly
+    Legit
 
     Raqus
 
@@ -4876,7 +4885,7 @@ MonoBehaviour:
 
     Alycoris
 
-    Basil G.
+    Lief
 
     Buckmister II
 
@@ -5074,7 +5083,19 @@ MonoBehaviour:
 
 
 
-    Fog Canyon
+
+
+
+
+
+
+
+
+
+
+
+    Fog
+    Canyon
 
 
 
@@ -5088,8 +5109,7 @@ MonoBehaviour:
 
 
 
-    Forgotten
-    Crossroads
+    Forgotten Crossroads
 
 
 
@@ -5344,18 +5364,19 @@ MonoBehaviour:
   m_Text: "GoodKnightNintendo\r\nJohn \u201CMadJazzer\u201D Cargille\r\nLucas Davey\r\nNicholas
     Dunlap\r\nonegrainof\r\nPatrick Compton\r\nPerpetual Noob\r\nTyler L \u201CFatherTw1nk\u201D\r\n\nAlycoris\r\nastralcue\r\nBloodfang\r\nCashman0604\r\nCosbat\r\nEdgeTame\r\nfrozenreaper04\r\nIben
     The Wolf\r\nKranic\r\nLoads_of_toads_67\r\nMidshipMorgan\r\nmrmanguy1\r\nSerrara
-    Mayfield\r\nSmol Ascended Bee\r\nTechnovoid\r\nTyro\r\nVIBE GOD\r\nYety245\r\nZach\r\n\nAlycoris\r\nBloodfang\r\nDavis
-    Henderson\r\nDuckverse\r\nDuncan \"Thatticus\" Storozuk\r\nEdgeTame\r\nfalconfetus8\r\nJohn
-    \u201CMadJazzer\u201D Cargille\r\nLeo Abadesco Jr.\r\nLucas Davey\r\nMarguerite
-    Smith\r\nMaxim Binder\r\nNym P. Seudo\r\nOliver Johnson\r\nPerpetual Noob\r\nPossibly
-    Legit\r\nTAGOrigins\r\nThe Grinning Gamer\r\nYoshiShoes\r\nZach\r\nZer0PM\r\n\nabreeki001\r\nAndie
+    Mayfield\r\nSmol Ascended Bee\r\nTechnovoid\r\nTyro\r\nVIBE GOD\r\nYety245\r\nZach\r\n\nAlycoris\r\nLief\nBloodfang\r\nConnor
+    Bushoven\nDavis Henderson\r\nDuckverse\r\nDuncan \"Thatticus\" Storozuk\r\nEdgeTame\r\nfalconfetus8\r\nHelen
+    Birchall\nJohn \u201CMadJazzer\u201D Cargille\r\nJonathan Lautre\nKaokraft\nLeo
+    Abadesco Jr.\r\nLucas Davey\r\nMadeleine Hamley\nMarguerite Smith\r\nMaxim Binder\r\nNym
+    P. Seudo\r\nOliver Johnson\r\nPerpetual Noob\r\nPhilip Hughes\nPossibly Legit\r\nRealeeryan\nTAGOrigins\r\nThe
+    Grinning Gamer\r\nXeno_abyss\nYoshiShoes\r\nZacc\nZach\r\nZer0PM\r\n\nabreeki001\r\nAndie
     Sanade\r\nCcmaci\r\nChristopher Cones\r\nConnor Bushoven\r\nDragoler\r\nEdgeTame\r\nfalconfetus8\r\nGarrett
     Horne\r\nGryphonTheBard\r\nJellyCORE\r\nJohn \u201CMadJazzer\u201D Cargille\r\nKyle
     \"Kyphoon\" Williams\r\nLeo Abadesco Jr.\r\nMadeleine Hamley\r\nMarguerite Smith\r\nMAT\r\nMaxim
     Binder\r\nMiriShalyn\r\nOliver Johnson\r\nPerpetual Noob\r\nPhilip Hughes \r\nRealeeryan\r\nThe
-    Grinning Gamer\r\nYoshiShoes\r\nZer0PM\r\n\n\nBuckmister II\r\nFrozenreaper04\r\nPurple_Toaster\r\nZach\r\n\nAnonymousShade\r\nLucas
-    Davey\r\nRedtreevortex\r\n\nA Dad\r\nRuttie\r\n\nDragoler {Achievements}\r\nFruit
-    Marm {Hype trailer}\r\n\nMAT\r\nMiriShalyn \r\n\nMAT\r\n\n\n\n\n\n\n\n\n\n\n\n"
+    Grinning Gamer\r\nYoshiShoes\r\nZer0PM\r\n\n\nBuckmister II\r\nFrozenreaper04\r\nPurple_Toaster\r\nZach\r\n\nExempt-Medic\nSumwan\n\nAnonymousShade\r\nLucas
+    Davey\r\nRedtreevortex\r\n\nA Dad\r\nRuttie\r\nSFGrenade\n\nAmelia Rose\nFiona\n\nDragoler
+    {Achievements}\r\nFruit Marm {Hype trailer}\r\n\nMAT\r\nMiriShalyn \r\n\nMAT\r\n\n\n\n\n\n\n\n\n\n\n\n"
 --- !u!222 &1414947524
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6263,8 +6284,8 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "Ancient Basin Wishing Well\r\n\nCity Entrance Tablet\r\n\nGreenpath Tablets\r\n\nMantis
-    Village Tablets\r\n\r\n\r\n\nMenderbug\u2019s Dear Diary\r\n\nPath of Pain Tablet\r\n\nPilgrims
-    Way Signs\r\n\nSonstress Marissa Display\r\n\nSoul Sanctum Records\r\n\nSporeshroom
+    Village Tablets\r\n\r\n\r\n\nMenderbug\u2019s Dear Diary\r\n\nPath of Pain Tablet\r\n\nPilgrim's
+    Way Signs\r\n\nSongstress Marissa Display\r\n\nSoul Sanctum Records\r\n\nSporeshroom
     Tablets\r\n\n\nTraitors\u2019 Child Gravestone\r\n"
 --- !u!222 &1712182518
 CanvasRenderer:
@@ -7330,11 +7351,11 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "Duncan \"Thatticus\" Storozuk\r\n\r\nTristan Nichols\r\n\r\nRichard Gibson\r\n\r\nMarguerite
-    Smith\r\n\r\nYoshiShoes (& her brother)\r\n\r\nSprout\r\n\r\nBasil G.\n\r\nHelen
-    Birchall\r\nMiriShalyn\r\nZer0PM\r\n\r\nAlycoris\r\nPossibly Legit\r\nYoshieShoes\r\nZacc\r\n\r\nMaxim
-    Binder\r\nYoshieShoes\r\n\r\nDragonRoIlZ\r\n\r\nCassandra \"Friskk\" Reyna\r\n\r\nOliver
-    Johnson\r\n\r\nPhilip Hughes\r\nTristan Nichols\r\n\r\nEliGNations.VA\r\n\r\nJames
-    Dijit\r\n\r\nTheTalkingFlower\r\n\r\nCcmaci\r\n\r\nPerpetual Noob\r\nRelyea\r\nRusty.\r\nStizzl\r\nT4coTV\r\nWindette\r"
+    Smith\r\n\r\nYoshiShoes (& her brother)\r\n\r\nSprout\r\n\r\nLief\n\r\nHelen
+    Birchall\r\nMiriShalyn\r\nZer0PM\r\n\r\nAlycoris\r\nPossibly Legit\r\nYoshiShoes\r\nZacc\r\n\r\nMaxim
+    Binder\r\nYoshiShoes\r\n\r\nDragonRoIlZ\r\n\r\nMiriShalyn\n\r\nOliver Johnson\r\n\r\nPhilip
+    Hughes\r\nTristan Nichols\r\n\r\nEliGNations.VA\r\n\r\nJames Dijit\r\n\r\nTheTalkingFlower\r\n\r\nCcmaci\r\n\r\nPerpetual
+    Noob\r\nRelyea\r\nRusty.\r\nStizzl\r\nT4coTV\r\nWindette\r"
 --- !u!222 &1939914965
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7416,10 +7437,10 @@ MonoBehaviour:
   m_Text: "Andie Sanade\r\nCcmaci\r\nDavis Henderson\r\nDragonRoIlZ\r\nDuckverse\r\nLucas
     Davey\r\nMajorDZaster\r\nMarguerite Smith\r\nMaxim Binder\r\nRaqus\r\nSmorales300\r\nTemporalitea\r\nThe
     Grinning Gamer\r\nTrailblade\r\n\r\nAndie Sanade\r\nJohn \u201CMadJazzer\u201D
-    Cargille\r\n\r\nAndie Sanade\r\nflipflopitstimetostop\r\nLeo Abadesco Jr. \r\n\r\nBasil
-    G.\nCcmaci\r\nLeo Abadesco Jr. \r\nvide0gurt\r\n\r\nAndie Sanade\r\nAlexandra
-    Smith\r\nDutch Blackwood\r\nWyatt \u201CLucidWraithh\u201D West\r\n\r\nAndieSanade\r\nJoseph
-    Caddell\r\nJellyCORE\r\nMadeleine Hamley\r\n\r\nConnor Bushoven\r\nJoseph Caddell\r\n\r\nAlycoris\r\nCcmaci\r\n\r\nDuckverse\r\nJellyCORE\r\nvide0gurt\r\nYoshiShoes\r\nZacc\r\n\r\nCcmaci\r\nJohn
+    Cargille\r\n\r\nAndie Sanade\r\nflipflopitstimetostop\r\nLeo Abadesco Jr. \r\n\r\nLief\nCcmaci\r\nLeo
+    Abadesco Jr. \r\nvide0gurt\r\n\r\nAndie Sanade\r\nAlexandra Smith\r\nDutch Blackwood\r\nWyatt
+    \u201CLucidWraithh\u201D West\r\n\r\nAndieSanade\r\nJoseph Caddell\r\nJellyCORE\r\nMadeleine
+    Hamley\r\n\r\nConnor Bushoven\r\nJoseph Caddell\r\n\r\nAlycoris\r\nCcmaci\r\n\r\nDuckverse\r\nJellyCORE\r\nvide0gurt\r\nYoshiShoes\r\nZacc\r\n\r\nCcmaci\r\nJohn
     \u201CMadJazzer\u201D Cargille\r\nMaxim Binder\r\n\r\nAndie Sanade\r\nMR.C Gaming\r\r\nRaqus\r\nTravis
     Kegerreis\r\nvide0gurt\n\r\nJoseph Caddell\r\nMaxim Binder\r\nOliver Johnson\r\nRealeeryan\r\n\r\nDragoler\r\nMadeleine
     Hamley\r\nTemporalitea\r\nTrailblade\r\n\r\nDavis Henderson\r\nDutch Blackwood\r\nKyle
@@ -7553,6 +7574,10 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: 'Grubby Grub Grub
+
+
+
+
 
 
 
@@ -7880,9 +7905,10 @@ MonoBehaviour:
     Dijit\r\n\r\n\n\n\n\n\nCcmaci\r\nCJ \u201CPinedear\u201D\r\nPossibly Legit\r\nThe
     Grinning Gamer\r\n\nMarguerite Smith\r\nvide0gurt\r\n\r\n\n\n\n\n\nAlycoris\r\n\nLumpyLimitz\r\nMaxim
     Binder\r\n\nTristan Nichols\r\n\n\n\n\n\n\nfalconfetus8\r\nWyatt \u201CLucidWraithh\u201D
-    West\r\nYoshiShoes\r\n\r\nRaqus\r\n\r\nMajorDZaster\r\nTrailblade\r\n\r\nTemporalitea\r\n\r\nabreeki001\r\nAlycoris\r\nCcmaci\r\nEliGNations.VA\r\nfrozenreaper04\r\nLucas
+    West\r\nYoshiShoes\r\n\r\nRaqus\r\n\nCcmaci\r\nChristopher Cones\r\nKyle \"Kyphoon\"
+    Williams\r\nLief\r\nMajorDZaster\r\nOliver Johnson\r\nPossibly Legit\r\nRealeeryan\r\nTAGOrigins\r\nTrailblade\r\nYoshiShoes\r\n\r\nMajorDZaster\r\nTrailblade\r\n\r\nTemporalitea\r\n\r\nabreeki001\r\nAlycoris\r\nCcmaci\r\nEliGNations.VA\r\nfrozenreaper04\r\nLucas
     Davey\r\nMaxim Binder\r\nNym P. Seudo\r\nRaqus\r\nSarah \"SallieKat\" Klipper\r\nTAGOrigins\r\nThe
-    Grinning Gamer\r\n\r\nAlycoris\r\nBasil G.\nHelen Birchall\r\nZer0PM\n\n\n\n\n\n\nKyle
+    Grinning Gamer\r\n\r\nAlycoris\r\nLief\nHelen Birchall\r\nZer0PM\n\n\n\n\n\n\nKyle
     \"Kyphoon\" Williams\r\nRealeeryan\r\n\nRaqus\r\nThe Grinning Gamer\r\n\nYoshiShoes\r\n\r\n\n\n\n\n\nCcmaci\r\n\nflipflopitstimetostop\r\n\nAndie
     Sanade\r\n\nCcmaci\r\nflipflopitstimetostop\r\n\n\n\n\n\n\nSprout\r\n\nTristan
     Nichols\r\n\nflipflopitstimetostop\r\n\nvide0gurt\r\nWyatt \u201CLucidWraithh\u201D
@@ -7970,7 +7996,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Richard Gibson\r\n\nBasil G.\nClairinetti\r\nDuckverse\r\nDuncan \"Thatticus\"
+  m_Text: "Ccmaci\nRichard Gibson\r\n\nLief\nClairinetti\r\nDuckverse\r\nDuncan \"Thatticus\"
     Storozuk\r\nLucas Davey\r\nMaxim Binder\r\nSarah \"SallieKat\" Klipper\r\n\nAlycoris\r\nLandon
     VanHorn\r\n\nWyatt \u201CLucidWraithh\u201D West\r\n\nazzki\r\n\nT4coTV\r\nTechnovoid\r\n"
 --- !u!222 &2067793415
