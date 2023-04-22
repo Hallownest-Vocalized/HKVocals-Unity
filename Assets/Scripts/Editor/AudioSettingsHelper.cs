@@ -16,6 +16,10 @@ using UnityEditor;
 public class ChangeAudioImportSettings : ScriptableObject 
 {
 
+    static bool SkipCompression(string path) {
+        return path.ToLower().Contains("Creditaudio".ToLower()); // Somewhat hacky workaround to not compress credit audio
+    }
+
     [MenuItem("Audio Helper/Set Default Presets")]
     static void SetDefaultsPresets()
     {
@@ -24,6 +28,8 @@ public class ChangeAudioImportSettings : ScriptableObject
         foreach (AudioClip audioclip in audioclips)
         {
             string path = AssetDatabase.GetAssetPath(audioclip);
+            if (SkipCompression(path)) continue;
+
             AudioImporter audioImporter = AssetImporter.GetAtPath(path) as AudioImporter;
             var settings = audioImporter!.defaultSampleSettings;
             
@@ -46,6 +52,8 @@ public class ChangeAudioImportSettings : ScriptableObject
         foreach (AudioClip audioclip in audioclips)
         {
             string path = AssetDatabase.GetAssetPath(audioclip);
+            if (SkipCompression(path)) continue;
+            
             AudioImporter audioImporter = AssetImporter.GetAtPath(path) as AudioImporter;
             var settings = audioImporter.defaultSampleSettings;
             settings.compressionFormat = AudioCompressionFormat.PCM;
@@ -88,6 +96,8 @@ public class ChangeAudioImportSettings : ScriptableObject
         foreach (AudioClip audioclip in audioclips)
         {
             string path = AssetDatabase.GetAssetPath(audioclip);
+            if (SkipCompression(path)) continue;
+
             AudioImporter audioImporter = AssetImporter.GetAtPath(path) as AudioImporter;
             var settings = audioImporter.defaultSampleSettings;
             settings.compressionFormat = AudioCompressionFormat.Vorbis;
@@ -115,6 +125,8 @@ public class ChangeAudioImportSettings : ScriptableObject
         Selection.objects = new Object[0];
         foreach (AudioClip audioclip in audioclips) {
             string path = AssetDatabase.GetAssetPath(audioclip);
+            if (SkipCompression(path)) continue;
+            
             AudioImporter audioImporter = AssetImporter.GetAtPath(path) as AudioImporter;
             audioImporter.forceToMono = enabled;
             AssetDatabase.ImportAsset(path);
